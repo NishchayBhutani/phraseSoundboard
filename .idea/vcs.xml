@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/Connect3Game" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CurrencyConverter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/HigherOrLower" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/interactivityDemo" vcs="Git" />
+  </component>
+</project>
